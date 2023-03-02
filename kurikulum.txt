@@ -3,4 +3,4 @@ Kurikulum pembelajaran data specializations di Algorit.ma :
 - Data Visualization
 - Machine Learning
 - Deep Learning
-- Final Project 
+- Final Project and Career Coaching 
