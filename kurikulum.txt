@@ -1,0 +1,5 @@
+Kurikulum pembelajaran data specializations di Algorit.ma :
+- Data Analytics
+- Data Visualization
+- Machine Learning
+- Deep Learning
